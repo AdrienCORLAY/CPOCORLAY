@@ -24,4 +24,5 @@ public class Exo1 {
         prenom = sc.nextLine();
     }
     //enfin!!
+    // on est la 
 }
