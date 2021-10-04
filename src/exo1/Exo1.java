@@ -23,5 +23,5 @@ public class Exo1 {
         System.out.println("Bonjour, comment vas-tu ?");
         prenom = sc.nextLine();
     }
-    
+    //enfin!!
 }
